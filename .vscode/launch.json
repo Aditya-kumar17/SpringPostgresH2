@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringPostgresH2Application<SpringPostgresH2>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.building.SpringPostgresH2.SpringPostgresH2Application",
+            "projectName": "SpringPostgresH2",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
